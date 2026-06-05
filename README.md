@@ -6,15 +6,12 @@ Appunti, teoria e laboratori pratici per la preparazione alle certificazioni **M
 
 ## 📂 Cosa troverai
 
-```
-lab1-fondamenti-dhcp-vlan/        # Lab 1: Fondamenti, DHCP e Bridging
-├── documentazione/
-│   └── Lab1_Documentazione.md   # Guida completa step-by-step
-└── [altre risorse]
+- [lab1-fondamenti-dhcp-vlan/](./lab1-fondamenti-dhcp-vlan/) — Lab 1: Fondamenti, DHCP e Bridging
+  - [documentazione/Lab1_Documentazione.md](./lab1-fondamenti-dhcp-vlan/documentazione/Lab1_Documentazione.md) — Guida completa step-by-step
+  - [altre risorse](./lab1-fondamenti-dhcp-vlan/)
 
-lab2-routing/                     # Lab 2 (in arrivo)
-lab3-sicurezza/                   # Lab 3 (in arrivo)
-```
+- [lab2-routing/](./lab2-routing/) — Lab 2 (in arrivo)
+- [lab3-sicurezza/](./lab3-sicurezza/) — Lab 3 (in arrivo)
 
 ---
 
