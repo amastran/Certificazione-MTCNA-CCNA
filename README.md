@@ -33,7 +33,7 @@ lab3-sicurezza/                   # Lab 3 (in arrivo)
 
 **Come iniziare:**
 1. Apri il progetto in GNS3
-2. Leggi: [`lab1-fondamenti-dhcp-vlan/documentazione/Lab1_Documentazione.md`](./lab1-fondamenti-dhcp-vlan/documentazione/Lab1_Documentazione.md)
+2. Leggi: [Lab1_Documentazione.md](./lab1-fondamenti-dhcp-vlan/documentazione/Lab1_Documentazione.md)
 3. Segui i 5 step: **A → B → C → D → E**
 4. Verifica con la checklist finale
 
