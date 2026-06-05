@@ -6,21 +6,12 @@ Appunti, teoria e laboratori pratici per la preparazione alle certificazioni **M
 
 ## 📂 Cosa troverai / What you'll find
 
-Italiano
+- [Lab 1 — Fondamenti  DHCP e Bridging](./Lab%201%20%E2%80%94%20Fondamenti%20%20DHCP%20e%20Bridging/) — Lab 1: Fondamenti, DHCP e Bridging
+  - [documentazione/Lab1_Documentazione.md](./Lab%201%20%E2%80%94%20Fondamenti%20%20DHCP%20e%20Bridging/documentazione/Lab1_Documentazione.md) — Guida completa step-by-step (IT)
+  - [documentazione/Lab1_Documentazione_EN.md](./Lab%201%20%E2%80%94%20Fondamenti%20%20DHCP%20e%20Bridging/documentazione/Lab1_Documentazione_EN.md) — Brief automated English translation (EN)
 
-- [Lab 1 — Fondamenti  DHCP e Bridging](./Lab 1 — Fondamenti  DHCP e Bridging/) — Lab 1: Fondamenti, DHCP e Bridging
-  - [documentazione/Lab1_Documentazione.md](./Lab 1 — Fondamenti  DHCP e Bridging/documentazione/Lab1_Documentazione.md) — Guida completa step-by-step (IT)
-
-- [Lab 2 — Routing](./Lab 2 — Routing/) — Lab 2 (in arrivo)
-- [Lab 3 — Sicurezza](./Lab 3 — Sicurezza/) — Lab 3 (in arrivo)
-
-English
-
-- [Lab 1 — Basics, DHCP and Bridging](./Lab 1 — Fondamenti  DHCP e Bridging/) — Lab 1: Basics, DHCP and Bridging
-  - [documentazione/Lab1_Documentazione_EN.md](./Lab 1 — Fondamenti  DHCP e Bridging/documentazione/Lab1_Documentazione_EN.md) — Full step-by-step guide (EN, automated translation)
-
-- [Lab 2 — Routing](./Lab 2 — Routing/) — Lab 2 (coming soon)
-- [Lab 3 — Security](./Lab 3 — Sicurezza/) — Lab 3 (coming soon)
+- Lab 2 — Routing — Lab 2 (in arrivo)
+- Lab 3 — Sicurezza — Lab 3 (in arrivo)
 
 ---
 
@@ -39,8 +30,8 @@ English
 
 **Come iniziare / How to start:**
 1. Apri il progetto in GNS3 / Open the project in GNS3
-2. Leggi (IT): [Lab1_Documentazione.md](./Lab 1 — Fondamenti  DHCP e Bridging/documentazione/Lab1_Documentazione.md)
-   Read (EN): [Lab1_Documentazione_EN.md](./Lab 1 — Fondamenti  DHCP e Bridging/documentazione/Lab1_Documentazione_EN.md)
+2. Leggi (IT): [Lab1_Documentazione.md](./Lab%201%20%E2%80%94%20Fondamenti%20%20DHCP%20e%20Bridging/documentazione/Lab1_Documentazione.md)  
+   Read (EN): [Lab1_Documentazione_EN.md](./Lab%201%20%E2%80%94%20Fondamenti%20%20DHCP%20e%20Bridging/documentazione/Lab1_Documentazione_EN.md)
 3. Segui i 5 step: **A → B → C → D → E** / Follow the 5 steps: **A → B → C → D → E**
 4. Verifica con la checklist finale / Verify with the final checklist
 
