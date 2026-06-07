@@ -10,20 +10,8 @@ Appunti, teoria e laboratori pratici per la preparazione alle certificazioni **M
   - [documentazione/Lab1_Documentazione.md](./Lab%201%20%E2%80%94%20Fondamenti%20%20DHCP%20e%20Bridging/documentazione/Lab1_Documentazione.md) — Guida completa step-by-step (IT)
   - [documentazione/Lab1_Documentazione_EN.md](./Lab%201%20%E2%80%94%20Fondamenti%20%20DHCP%20e%20Bridging/documentazione/Lab1_Documentazione_EN.md) — Brief automated English translation (EN)
 
-- [Lab 2 — Routing](./MIKROTIK/LAB02/) — Lab 2: Routing avanzato con GNS3
-
-  ![Lab02 GNS3 Background](./MIKROTIK/LAB02/assets/LAB02-background.png)
-
-    - **Descrizione**: In questo laboratorio esplorerai il routing avanzato utilizzando un ambiente simulato con GNS3.
-
-      **Ambiente GNS3 / GNS3 environment:**
-      - 2 Router di Data center
-      - Configurazioni di static routing per multi-siti
-
-    - **Come iniziare:**
-      1. Clona il repository: `git clone https://github.com/amastran/Certificazione-MTCNA-CCNA.git`
-      2. Vai a `MIKROTIK/LAB02/`
-      3. Apri il progetto in GNS3!
+- [Lab 2 — Routing Statico e Failover](./LAB02_Routing_Statico_Failover/) — Lab 2: Routing Statico e Failover
+  - [documentazione/LAB02_Routing_Statico_Failover.md](./LAB02_Routing_Statico_Failover/LAB02_Routing_Statico_Failover.md) — Guida completa step-by-step (IT)
 
 - Lab 3 — Sicurezza — Lab 3 (in arrivo)
 
@@ -48,6 +36,25 @@ Appunti, teoria e laboratori pratici per la preparazione alle certificazioni **M
    Read (EN): [Lab1_Documentazione_EN.md](./Lab%201%20%E2%80%94%20Fondamenti%20%20DHCP%20e%20Bridging/documentazione/Lab1_Documentazione_EN.md)
 3. Segui i 5 step: **A → B → C → D → E** / Follow the 5 steps: **A → B → C → D → E**
 4. Verifica con la checklist finale / Verify with the final checklist
+
+---
+
+## 🧪 Lab 2: Routing Statico e Failover / Lab 2: Static Routing and Failover
+
+**Cosa impari / What you learn:**
+- Configurare routing statico con failover / Configure static routing with failover
+- ECMP per bilanciamento del traffico / ECMP traffic balancing
+- Test del failover tra Branch e Datacenter / Failover testing between Branch and Datacenter
+
+**Ambiente GNS3 / GNS3 environment:**
+- 4 router MikroTik (EDGE, HQ, BRANCH, DC)
+- Rotte statiche primarie e di backup / Primary and backup static routes
+- LAN branch e Datacenter / Branch and Datacenter LAN
+
+**Come iniziare / How to start:**
+1. Apri il progetto in GNS3 / Open the project in GNS3
+2. Leggi (IT): [LAB02_Routing_Statico_Failover.md](./LAB02_Routing_Statico_Failover/LAB02_Routing_Statico_Failover.md)
+3. Studia la topologia e segui i passi configurativi / Study the topology and follow the configuration steps
 
 ---
 
