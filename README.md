@@ -10,7 +10,21 @@ Appunti, teoria e laboratori pratici per la preparazione alle certificazioni **M
   - [documentazione/Lab1_Documentazione.md](./Lab%201%20%E2%80%94%20Fondamenti%20%20DHCP%20e%20Bridging/documentazione/Lab1_Documentazione.md) — Guida completa step-by-step (IT)
   - [documentazione/Lab1_Documentazione_EN.md](./Lab%201%20%E2%80%94%20Fondamenti%20%20DHCP%20e%20Bridging/documentazione/Lab1_Documentazione_EN.md) — Brief automated English translation (EN)
 
-- Lab 2 — Routing — Lab 2 (in arrivo)
+- [Lab 2 — Routing](./MIKROTIK/LAB02/) — Lab 2: Routing avanzato con GNS3
+
+  ![Lab02 GNS3 Background](./MIKROTIK/LAB02/assets/LAB02-background.png)
+
+    - **Descrizione**: In questo laboratorio esplorerai il routing avanzato utilizzando un ambiente simulato con GNS3.
+
+      **Ambiente GNS3 / GNS3 environment:**
+      - 2 Router di Data center
+      - Configurazioni di static routing per multi-siti
+
+    - **Come iniziare:**
+      1. Clona il repository: `git clone https://github.com/amastran/Certificazione-MTCNA-CCNA.git`
+      2. Vai a `MIKROTIK/LAB02/`
+      3. Apri il progetto in GNS3!
+
 - Lab 3 — Sicurezza — Lab 3 (in arrivo)
 
 ---
@@ -45,4 +59,4 @@ Appunti, teoria e laboratori pratici per la preparazione alle certificazioni **M
 
 ---
 
-*Ultimi aggiornamenti / Last updated: 2026-06-05*
+*Ultimi aggiornamenti / Last updated: 2026-06-07*
